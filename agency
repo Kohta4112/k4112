@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>creative.</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" rel="stylesheet" href="css/styles.css" />
+
+</head>
+
+<body>
+    <header>
+        <nav class="gridrow">
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                <a href="#" class="logo" title="homepage">creative.</a>
+            </div>
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 textright">
+                <a href="#" class="hamburgermenu" title="menu"><span class="iczhamburger"></span></a>
+            </div>
+        </nav>
+        <div class="textoverlay">
+            <h1 class="primary">creative<span class="secondary">.</span></h1>
+            <h3>agency that<br>does stuff</h3>
+        </div>
+    </header>
+    <main>
+        <section id="about">
+            <div class="gridrow aboutline1">
+                <div class="col-xs-7 col-sm-7 col-md-7 col-lg-7">
+                    <h4 class="primary" id="resizedtxt">We are a <span class="secondary" id="resizedtxt">design
+                            & development</span><br>
+                        team that is proud of<br>
+                        our work <span class="iczarrow"></span></h4>
+                </div>
+                <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5 ">
+                    <picture>
+                        <img class="imgfit1" src="imgs/about1.jpg" alt="about creative." />
+                    </picture>
+                </div>
+            
+            <div class="gridrow aboutline2">
+                <div class="col-xs-7 col-sm-7 col-md-7 col-lg-7  set-lg-7">
+                    <video controls autoplay loop class="videohead">
+                        <source  src="imgs/header.mp4" type="video/mp4" />
+                    </video>
+                </div>
+            </div>
+        </div>
+        </section>
+        <section id="services">
+            <div class="gridrow">
+                <h2 class="col-xs-12 ">services.</h2>
+            </div>
+            <div class="gridrow serviceslist">
+                <div class="col-xs-12 col-lg-4 textcenter">
+                    <span class="iconz iczdev"></span>
+                    <h3>development</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+                        labore et dolore magna ipsam</p>
+                </div>
+                <div class="col-xs-12 col-lg-4  textcenter">
+                    <span class="iconz iczdsgn"></span>
+                    <h3>ux/ui design</h3>
+                    <p>Lorem ipsum aliqua. Ut enim ad minim veniam, quis nosztrud exercitation ullamco laboris nisi ut
+                        aliquip ex ea commodo</p>
+                </div>
+                <div class="col-xs-12 col-lg-4  textcenter">
+                    <span class="iconz iczmkt"></span>
+                    <h3>seo & marketing</h3>
+                    <p>Lorem ipsum dolor sit amet, voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
+                        consequuntur magni</p>
+                </div>
+            </div>
+        </section>
+        <section class="gridrowfull nogutter imggrid">
+            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                <picture>
+                    <img src="imgs/portfolio-08.jpg" alt="portfolio 8" class="imgfit" />
+                
+                <picture>
+                    <img src="imgs/portfolio-05.jpg" alt="portfolio 5" class="imgfit" />
+                </picture>
+            </picture>
+            </div>
+            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                <picture>
+                    <img src="imgs/portfolio-09.jpg" alt="portfolio 9" class="imgfit" />
+                </picture>
+            </div>
+            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
+                <picture>
+                    <img src="imgs/portfolio-07.jpg" alt="portfolio 7" class="imgfit" />
+                </picture>
+                <picture>
+                    <img src="imgs/portfolio-04.jpg" alt="portfolio 4" class="imgfit" />
+                </picture>
+            </div>
+        </section>
+        <section id="clients">
+            <div class="gridrow">
+                <h2 class="col-xs-12 col-sm-12 col-md-12 col-lg-12">clients.</h2>
+            </div>
+            <div class="gridrow clientslist">
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <picture>
+                        <img src="imgs/client-1.png" alt="client 1" class="imgfit" />
+                    </picture>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <picture>
+                        <img src="imgs/client-2.png" alt="client 2" class="imgfit" />
+                    </picture>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <picture>
+                        <img src="imgs/client-3.png" alt="client 3" class="imgfit" />
+                    </picture>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <picture>
+                        <img src="imgs/client-4.png" alt="client 4" class="imgfit" />
+                    </picture>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <picture>
+                        <img src="imgs/client-5.png" alt="client 5" class="imgfit" />
+                    </picture>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <picture>
+                        <img src="imgs/client-6.png" alt="client 6" class="imgfit" />
+                    </picture>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3">
+                    <picture>
+                        <img src="imgs/client-7.png" alt="client 7" class="imgfit" />
+                    </picture>
+                </div>
+                <div class="col-xs-6 col-sm-4 col-lg-3 ">
+                    <picture>
+                        <img src="imgs/client-8.png" alt="client 8" class="imgfit" />
+                    </picture>
+                </div>
+            </div>
+        </section>
+        <section id="contacts" class="gridrowfull nogutter">
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6  formcontainer">
+                <div class="form">
+                    <form method="POST" class="col-xs-10 col-sm-10 col-md-10 col-lg-10 ">
+                        <h2>contact us.</h2>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
+                            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
+                            ullamco laboris</p>
+                        <input type="text" name="creative[name]" placeholder="Your Name" />
+                        <input type="text" name="creative[email]" placeholder="Your Email" />
+                        <textarea name="creative[message]" placeholder="Your Message"></textarea>
+                        <button>Send Message</button>
+                    </form>
+                </div>
+            </div>
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6" id="map">
+                <picture class="mapr">
+                    <img  class="map" src="imgs/map.JPG">
+                </picture>
+            </div>
+        </section>
+    </main>
+    <footer class="textcenter">
+        <h2 class="white">creative.</h2>
+        <p class="gray">© 2018 creative agency. all rights reserved</p>
+        <a href="#" title="facebook"><span class="iczfacebook"></span></a>
+        <a href="#" title="instagram"><span class="iczinstagram"></span></a>
+        <a href="#" title="twitter"><span class="icztwitter"></span></a>
+        <a href="#" title="dribbble"><span class="iczdribbble"></span></a>
+        <a href="#" title="behance"><span class="iczbehance"></span></a>
+    </footer>
+</body>
+
+</html>
